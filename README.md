@@ -12,6 +12,12 @@ pandemic and recovered within nine months. They then fell 9.4% below 2019
 by January 2024 and took two years to recover. The pandemic was not the
 disruption.
 
+## Dashboard
+
+![Overview page](docs/overview.png)
+
+![Seasonality and disruption page](docs/seasonality.png)
+
 ## Stack
 
 pandas → SQLite (star schema) → SQL → Power BI
