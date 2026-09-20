@@ -1,0 +1,235 @@
+port,trade,year,empty_teu,total_teu,empty_pct
+CentrePort,Export,2012,4061,29693,13.7
+CentrePort,Export,2013,6683,27115,24.6
+CentrePort,Export,2014,7374,31830,23.2
+CentrePort,Export,2015,6256,35048,17.8
+CentrePort,Export,2016,5689,33503,17.0
+CentrePort,Export,2017,2395,11840,20.2
+CentrePort,Export,2018,8468,31909,26.5
+CentrePort,Export,2019,6537,32086,20.4
+CentrePort,Export,2020,6096,33028,18.5
+CentrePort,Export,2021,9584,35110,27.3
+CentrePort,Export,2022,8254,26746,30.9
+CentrePort,Export,2023,9647,28482,33.9
+CentrePort,Export,2024,8879,28435,31.2
+CentrePort,Import,2012,4938,34235,14.4
+CentrePort,Import,2013,3555,32594,10.9
+CentrePort,Import,2014,4127,35967,11.5
+CentrePort,Import,2015,5917,39264,15.1
+CentrePort,Import,2016,8325,40072,20.8
+CentrePort,Import,2017,2880,13148,21.9
+CentrePort,Import,2018,4885,31881,15.3
+CentrePort,Import,2019,4772,32288,14.8
+CentrePort,Import,2020,6180,33512,18.4
+CentrePort,Import,2021,5084,40399,12.6
+CentrePort,Import,2022,8284,35132,23.6
+CentrePort,Import,2023,6009,31176,19.3
+CentrePort,Import,2024,7484,33078,22.6
+Lyttelton,Export,2012,8284,108714,7.6
+Lyttelton,Export,2013,11046,120694,9.2
+Lyttelton,Export,2014,18977,127542,14.9
+Lyttelton,Export,2015,12754,106208,12.0
+Lyttelton,Export,2016,12665,114174,11.1
+Lyttelton,Export,2017,29166,125852,23.2
+Lyttelton,Export,2018,32014,130269,24.6
+Lyttelton,Export,2019,25955,138142,18.8
+Lyttelton,Export,2020,25806,128653,20.1
+Lyttelton,Export,2021,30739,158467,19.4
+Lyttelton,Export,2022,29935,158740,18.9
+Lyttelton,Export,2023,35263,152745,23.1
+Lyttelton,Export,2024,29670,145834,20.3
+Lyttelton,Import,2012,27644,93934,29.4
+Lyttelton,Import,2013,24733,92238,26.8
+Lyttelton,Import,2014,22825,97427,23.4
+Lyttelton,Import,2015,16439,93541,17.6
+Lyttelton,Import,2016,20914,99565,21.0
+Lyttelton,Import,2017,17773,101831,17.5
+Lyttelton,Import,2018,20083,106525,18.9
+Lyttelton,Import,2019,25072,113352,22.1
+Lyttelton,Import,2020,21539,102447,21.0
+Lyttelton,Import,2021,16822,120317,14.0
+Lyttelton,Import,2022,17174,111812,15.4
+Lyttelton,Import,2023,18695,105304,17.8
+Lyttelton,Import,2024,25748,117972,21.8
+Napier Port,Export,2012,1619,76433,2.1
+Napier Port,Export,2013,2768,83272,3.3
+Napier Port,Export,2014,2782,86281,3.2
+Napier Port,Export,2015,2013,101904,2.0
+Napier Port,Export,2016,3180,110571,2.9
+Napier Port,Export,2017,5467,118595,4.6
+Napier Port,Export,2018,1733,108699,1.6
+Napier Port,Export,2019,2085,110746,1.9
+Napier Port,Export,2020,2556,109475,2.3
+Napier Port,Export,2021,3540,110464,3.2
+Napier Port,Export,2022,3577,101274,3.5
+Napier Port,Export,2023,6224,77406,8.0
+Napier Port,Export,2024,5174,94537,5.5
+Napier Port,Import,2012,47341,62053,76.3
+Napier Port,Import,2013,52157,66123,78.9
+Napier Port,Import,2014,51200,66643,76.8
+Napier Port,Import,2015,50603,67210,75.3
+Napier Port,Import,2016,49000,71378,68.6
+Napier Port,Import,2017,41874,82126,51.0
+Napier Port,Import,2018,49835,75390,66.1
+Napier Port,Import,2019,58687,85545,68.6
+Napier Port,Import,2020,55381,82956,66.8
+Napier Port,Import,2021,49852,80189,62.2
+Napier Port,Import,2022,43929,70886,62.0
+Napier Port,Import,2023,38864,60038,64.7
+Napier Port,Import,2024,40796,62714,65.1
+Port Nelson,Export,2012,445,12804,3.5
+Port Nelson,Export,2013,414,15530,2.7
+Port Nelson,Export,2014,520,16505,3.2
+Port Nelson,Export,2015,830,24692,3.4
+Port Nelson,Export,2016,1098,21764,5.0
+Port Nelson,Export,2017,1431,29242,4.9
+Port Nelson,Export,2018,1171,28534,4.1
+Port Nelson,Export,2019,1396,27308,5.1
+Port Nelson,Export,2020,539,24307,2.2
+Port Nelson,Export,2021,164,22116,0.7
+Port Nelson,Export,2022,142,20810,0.7
+Port Nelson,Export,2023,1791,19408,9.2
+Port Nelson,Export,2024,431,19581,2.2
+Port Nelson,Import,2012,12092,16312,74.1
+Port Nelson,Import,2013,14187,18852,75.3
+Port Nelson,Import,2014,17225,21533,80.0
+Port Nelson,Import,2015,17319,21965,78.8
+Port Nelson,Import,2016,15391,21028,73.2
+Port Nelson,Import,2017,24255,31865,76.1
+Port Nelson,Import,2018,24687,30205,81.7
+Port Nelson,Import,2019,19651,23498,83.6
+Port Nelson,Import,2020,21109,24080,87.7
+Port Nelson,Import,2021,12764,16587,77.0
+Port Nelson,Import,2022,17907,20146,88.9
+Port Nelson,Import,2023,10433,16163,64.5
+Port Nelson,Import,2024,17652,24582,71.8
+Port Otago,Export,2012,2394,68659,3.5
+Port Otago,Export,2013,1436,70853,2.0
+Port Otago,Export,2014,1995,66293,3.0
+Port Otago,Export,2015,1946,62780,3.1
+Port Otago,Export,2016,4420,63746,6.9
+Port Otago,Export,2017,9895,71863,13.8
+Port Otago,Export,2018,3782,75391,5.0
+Port Otago,Export,2019,3102,78146,4.0
+Port Otago,Export,2020,2630,70968,3.7
+Port Otago,Export,2021,1770,65674,2.7
+Port Otago,Export,2022,2841,70824,4.0
+Port Otago,Export,2023,3496,92229,3.8
+Port Otago,Export,2024,2569,106639,2.4
+Port Otago,Import,2012,45142,55025,82.0
+Port Otago,Import,2013,45130,57039,79.1
+Port Otago,Import,2014,38027,50866,74.8
+Port Otago,Import,2015,43321,55931,77.5
+Port Otago,Import,2016,43202,55928,77.2
+Port Otago,Import,2017,43410,59221,73.3
+Port Otago,Import,2018,44106,60467,72.9
+Port Otago,Import,2019,43666,61205,71.3
+Port Otago,Import,2020,45793,60288,76.0
+Port Otago,Import,2021,39371,51714,76.1
+Port Otago,Import,2022,45320,57001,79.5
+Port Otago,Import,2023,35550,44885,79.2
+Port Otago,Import,2024,34415,43619,78.9
+Port of Tauranga,Export,2012,45045,400010,11.3
+Port of Tauranga,Export,2013,55792,355472,15.7
+Port of Tauranga,Export,2014,46329,347753,13.3
+Port of Tauranga,Export,2015,22576,374224,6.0
+Port of Tauranga,Export,2016,32322,409300,7.9
+Port of Tauranga,Export,2017,34556,453125,7.6
+Port of Tauranga,Export,2018,34050,480435,7.1
+Port of Tauranga,Export,2019,29327,517702,5.7
+Port of Tauranga,Export,2020,31728,493910,6.4
+Port of Tauranga,Export,2021,55856,510555,10.9
+Port of Tauranga,Export,2022,63738,504855,12.6
+Port of Tauranga,Export,2023,59163,469583,12.6
+Port of Tauranga,Export,2024,68315,504821,13.5
+Port of Tauranga,Import,2012,118834,242657,49.0
+Port of Tauranga,Import,2013,116167,217744,53.4
+Port of Tauranga,Import,2014,105647,223253,47.3
+Port of Tauranga,Import,2015,110479,256290,43.1
+Port of Tauranga,Import,2016,124300,328329,37.9
+Port of Tauranga,Import,2017,129379,349017,37.1
+Port of Tauranga,Import,2018,130752,358283,36.5
+Port of Tauranga,Import,2019,117631,349568,33.7
+Port of Tauranga,Import,2020,143395,354837,40.4
+Port of Tauranga,Import,2021,123153,383866,32.1
+Port of Tauranga,Import,2022,144185,419068,34.4
+Port of Tauranga,Import,2023,145376,338855,42.9
+Port of Tauranga,Import,2024,173883,361992,48.0
+Ports of Auckland,Export,2012,28636,125896,22.7
+Ports of Auckland,Export,2013,41586,170208,24.4
+Ports of Auckland,Export,2014,58298,210394,27.7
+Ports of Auckland,Export,2015,62889,198731,31.6
+Ports of Auckland,Export,2016,67257,187347,35.9
+Ports of Auckland,Export,2017,79525,188469,42.2
+Ports of Auckland,Export,2018,83056,178699,46.5
+Ports of Auckland,Export,2019,90883,149610,60.7
+Ports of Auckland,Export,2020,71891,131203,54.8
+Ports of Auckland,Export,2021,95976,138506,69.3
+Ports of Auckland,Export,2022,96838,141330,68.5
+Ports of Auckland,Export,2023,100947,164094,61.5
+Ports of Auckland,Export,2024,89497,172879,51.8
+Ports of Auckland,Import,2012,17279,307525,5.6
+Ports of Auckland,Import,2013,16765,366980,4.6
+Ports of Auckland,Import,2014,17982,402267,4.5
+Ports of Auckland,Import,2015,13577,376831,3.6
+Ports of Auckland,Import,2016,12373,365155,3.4
+Ports of Auckland,Import,2017,11971,384618,3.1
+Ports of Auckland,Import,2018,10992,401564,2.7
+Ports of Auckland,Import,2019,9243,387930,2.4
+Ports of Auckland,Import,2020,8787,354840,2.5
+Ports of Auckland,Import,2021,3331,372079,0.9
+Ports of Auckland,Import,2022,7088,339615,2.1
+Ports of Auckland,Import,2023,12447,368798,3.4
+Ports of Auckland,Import,2024,17345,413180,4.2
+PrimePort Timaru,Export,2012,56,8278,0.7
+PrimePort Timaru,Export,2013,135,6188,2.2
+PrimePort Timaru,Export,2014,794,15737,5.0
+PrimePort Timaru,Export,2015,720,28621,2.5
+PrimePort Timaru,Export,2016,605,30772,2.0
+PrimePort Timaru,Export,2017,1171,26023,4.5
+PrimePort Timaru,Export,2018,984,17423,5.6
+PrimePort Timaru,Export,2019,650,14610,4.4
+PrimePort Timaru,Export,2020,1087,23552,4.6
+PrimePort Timaru,Export,2021,1860,14732,12.6
+PrimePort Timaru,Export,2022,616,1873,32.9
+PrimePort Timaru,Export,2023,175,14282,1.2
+PrimePort Timaru,Export,2024,1444,6198,23.3
+PrimePort Timaru,Import,2012,7937,10366,76.6
+PrimePort Timaru,Import,2013,5552,8476,65.5
+PrimePort Timaru,Import,2014,13296,17916,74.2
+PrimePort Timaru,Import,2015,25300,31084,81.4
+PrimePort Timaru,Import,2016,24944,31168,80.0
+PrimePort Timaru,Import,2017,24332,30924,78.7
+PrimePort Timaru,Import,2018,25568,31981,79.9
+PrimePort Timaru,Import,2019,27504,32142,85.6
+PrimePort Timaru,Import,2020,26597,31400,84.7
+PrimePort Timaru,Import,2021,17862,21280,83.9
+PrimePort Timaru,Import,2022,7002,7665,91.4
+PrimePort Timaru,Import,2023,15050,17025,88.4
+PrimePort Timaru,Import,2024,19118,21868,87.4
+South Port,Export,2012,273,13570,2.0
+South Port,Export,2013,464,13386,3.5
+South Port,Export,2014,510,14428,3.5
+South Port,Export,2015,352,16121,2.2
+South Port,Export,2016,568,16451,3.5
+South Port,Export,2017,223,16556,1.3
+South Port,Export,2018,171,17396,1.0
+South Port,Export,2019,361,21510,1.7
+South Port,Export,2020,211,22329,0.9
+South Port,Export,2021,90,22968,0.4
+South Port,Export,2022,71,19086,0.4
+South Port,Export,2023,108,20954,0.5
+South Port,Export,2024,184,23488,0.8
+South Port,Import,2012,12422,16617,74.8
+South Port,Import,2013,12251,16123,76.0
+South Port,Import,2014,10808,17081,63.3
+South Port,Import,2015,13669,19107,71.5
+South Port,Import,2016,14122,18040,78.3
+South Port,Import,2017,13771,18966,72.6
+South Port,Import,2018,15334,20342,75.4
+South Port,Import,2019,18106,23212,78.0
+South Port,Import,2020,20790,25942,80.1
+South Port,Import,2021,13366,16468,81.2
+South Port,Import,2022,15856,19412,81.7
+South Port,Import,2023,18380,21961,83.7
+South Port,Import,2024,18126,22530,80.5

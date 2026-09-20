@@ -1,0 +1,10 @@
+port_key,port,island,first_month,last_month,series_ends_early
+1,CentrePort,North,2012-01-01,2026-06-01,0
+2,Lyttelton,South,2012-01-01,2026-06-01,0
+3,Napier Port,North,2012-01-01,2026-06-01,0
+4,Port Nelson,South,2012-01-01,2026-06-01,0
+5,Port Otago,South,2012-01-01,2026-06-01,0
+6,Port of Tauranga,North,2012-01-01,2026-06-01,0
+7,Ports of Auckland,North,2012-01-01,2025-06-01,1
+8,PrimePort Timaru,South,2012-01-01,2026-06-01,0
+9,South Port,South,2012-01-01,2026-06-01,0

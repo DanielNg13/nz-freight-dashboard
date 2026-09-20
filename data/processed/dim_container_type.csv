@@ -1,0 +1,5 @@
+container_type_key,container_type,size_ft,is_reefer,teu_per_box
+1,20ft dry,20,0,1
+2,20ft reefer,20,1,1
+3,40ft dry,40,0,2
+4,40ft reefer,40,1,2
